@@ -1,0 +1,5 @@
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\VoicerContextMonitor\obj\Debug\VoicerContextMonitor.pdb
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\VoicerContextMonitor\obj\Debug\VoicerContextMonitor.dll
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\VoicerContextMonitor\bin\Debug\VoicerContextMonitor.dll.config
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\VoicerContextMonitor\bin\Debug\VoicerContextMonitor.dll
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\VoicerContextMonitor\bin\Debug\VoicerContextMonitor.pdb

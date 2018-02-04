@@ -1,0 +1,8 @@
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\bin\Debug\ContextMonitorTester.exe.config
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\bin\Debug\ContextMonitorTester.exe
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\bin\Debug\ContextMonitorTester.pdb
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\bin\Debug\VoicerContextMonitor.dll
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\bin\Debug\VoicerContextMonitor.pdb
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\obj\Debug\ContextMonitorTester.csprojResolveAssemblyReference.cache
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\obj\Debug\ContextMonitorTester.exe
+F:\IndigoSoft\IndigoSoft Context Monitor\VoicerContextMonitor\ContextMonitorTester\obj\Debug\ContextMonitorTester.pdb
